@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.nav-bar{
+    width: 100%;
+    top: 0;
+    display: inline;
+    background-color: aquamarine;
+}
+.nav-link{
+    text-align: left;
+    top: 0;
+    align-items: flex-start;
+    
+}
+.nav-link a{
+    display: inline;
+    text-decoration: none;
+    top: 0;
+    left: 0
+}
+header{
+    background-color: gray;
+    top: 0;
+    text-align: center;
+}
